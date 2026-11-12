@@ -1,0 +1,11 @@
+# ROM archives and cover art are not published until rights are established.
+games/**/*.zip
+games/**/*.jpg
+games/**/*.jpeg
+games/**/*.png
+games/**/*.webp
+
+# OS / editor junk
+Thumbs.db
+Desktop.ini
+.DS_Store
